@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scarabeo657
 - 👀 I’m interested in starting developing..
 - 🌱 I’m currently learning fundamentals programming...element of html, css, java, c+, Python..
-- 💞️ I’m looking to collaborate on python...
+- 💞️ I’m looking to collaborate on python...just for the first step...not to get completely lost and maintain my motivation
 - 📫 How to reach me ...my github account
 
 <!---
